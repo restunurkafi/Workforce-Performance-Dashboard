@@ -11,24 +11,19 @@ This project analyzes workforce data to provide insights into employee demograph
 📊 **Performance & Training**: Training participation vs KPI achievement, awards per department, training performance by age, KPI achievement rate.  
 
 ---
-
-## 💡 Key Insights  
-✅ 70% of employees are male → opportunity to improve gender balance  
-✅ Sales & Marketing leads in awards and headcount → key revenue driver  
-✅ Training participation boosts KPI achievement, especially under 30  
-
----
-
 ## 🖼️ Dashboard Preview  
 
 ### Executive Summary  
 ![Executive Summary](Dashboard_Executive.png)
+💡 Insight : The workforce is heavily male-dominated, and Sales & Marketing has the largest headcount, indicating a strong focus on revenue-driving functions.
 
 ### Employee Demographics  
 ![Employee Demographics](Dashboard_Demographics.png)  
+💡 Insight: Most employees are within the productive age range of 25–35 years, and the majority hold a bachelor’s degree, supporting a knowledge-based workforce.
 
 ### Performance & Training  
 ![Performance & Training](Dashboard_Performance.png)  
+💡 Insight: Employees who participate in training demonstrate higher KPI achievement, especially those under 30, proving that training has a positive impact on performance.
 
 ---
 
