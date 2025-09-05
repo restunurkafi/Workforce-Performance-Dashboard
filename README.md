@@ -22,13 +22,13 @@ This project analyzes workforce data to provide insights into employee demograph
 ## 🖼️ Dashboard Preview  
 
 ### Executive Summary  
-![Executive Summary](images/Dashboard_Executive.png)  
+![Executive Summary](Dashboard_Executive.png)
 
 ### Employee Demographics  
-![Employee Demographics](images/Dashboard_Demographics.png)  
+![Employee Demographics](Dashboard_Demographics.png)  
 
 ### Performance & Training  
-![Performance & Training](images/Dashboard_Performance.png)  
+![Performance & Training](Dashboard_Performance.png)  
 
 ---
 
