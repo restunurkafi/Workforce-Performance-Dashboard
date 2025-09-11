@@ -19,7 +19,7 @@ This project analyzes workforce data to provide insights into employee demograph
 
 ### Employee Demographics  
 ![Employee Demographics](Dashboard_Demographics.png)  
-💡 Insight: Most employees are within the productive age range of 25–35 years, and the majority hold a bachelor’s degree, supporting a knowledge-based workforce.
+💡 Insight: Most employees are aged 25–35 with 4–10 years of tenure, and the majority hold a bachelor’s degree. The workforce is young and experienced, though the limited number of senior experts suggests a need for knowledge transfer initiatives.
 
 ### Performance & Training  
 ![Performance & Training](Dashboard_Performance.png)  
