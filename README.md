@@ -14,15 +14,15 @@ This project analyzes workforce data to provide insights into employee demograph
 ## 🖼️ Dashboard Preview  
 
 ### Executive Summary  
-![Executive Summary](Dashboard_Executive.png)
+![Executive Summary]()
 💡 Insight : The workforce is heavily male-dominated, and Sales & Marketing has the largest headcount, indicating a strong focus on revenue-driving functions.
 
 ### Employee Demographics  
-![Employee Demographics](Dashboard_Demographics.png)  
+![Employee Demographics]()  
 💡 Insight: Most employees are aged 25–35 with 4–10 years of tenure, and the majority hold a bachelor’s degree. The workforce is young and experienced, though the limited number of senior experts suggests a need for knowledge transfer initiatives.
 
 ### Performance & Training  
-![Performance & Training](Dashboard_Performance.png)  
+![Performance & Training]()  
 💡 Insight: Employees who participate in training demonstrate higher KPI achievement, especially those under 30, proving that training has a positive impact on performance.
 
 ---
