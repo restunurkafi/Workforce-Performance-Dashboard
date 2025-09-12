@@ -23,7 +23,7 @@ This project analyzes workforce data to provide insights into employee demograph
 
 ### Performance & Training  
 ![Performance & Training](Dashboard_Performance.png)  
-💡 Insight: Employees who participate in training demonstrate higher KPI achievement, especially those under 30, proving that training has a positive impact on performance.
+💡 Insight: KPI achievement showing 6,250 completions out of 13,000 target equal to 48%.
 
 ---
 
